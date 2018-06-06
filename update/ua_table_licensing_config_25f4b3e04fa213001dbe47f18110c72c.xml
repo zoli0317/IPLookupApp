@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_214976_iplookup_note</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-04 12:09:11</sys_created_on>
+        <sys_id>25f4b3e04fa213001dbe47f18110c72c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_214976_iplookup_note</sys_name>
+        <sys_package display_value="IPLookup" source="x_214976_iplookup">35956e134f1213001dbe47f18110c73d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">35956e134f1213001dbe47f18110c73d</sys_scope>
+        <sys_update_name>ua_table_licensing_config_25f4b3e04fa213001dbe47f18110c72c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-04 12:09:11</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

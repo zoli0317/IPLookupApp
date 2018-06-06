@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Note" max_length="40" name="x_214976_iplookup_note" sizeclass="4" type="collection">
+        <element label="Note" max_length="40" name="note" type="string"/>
+        <element label="Title" max_length="40" name="title" type="string"/>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+    </element>
+</database>
